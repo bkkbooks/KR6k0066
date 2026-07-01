@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0066/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說戒消災經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T24/T24n1477.xml
+    old_id: T24n1477
+hash: sha256:3f34e0f35a19e71ccccc5394ae00e780342382fe602c205342c8aa88eb90bb9f

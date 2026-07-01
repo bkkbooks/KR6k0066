@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6k0066/T/v1
+canonical_location: https://kanripo.org/bkk/KR6k0066/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說戒消災經
+  identifiers:
+    krp: KR6k0066
+    cbeta: T24n1477
+    cbeta_old_id: T24n1477
+    authorityid: CA0001590
+    json_key: T1477
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T24/T24n1477.xml
+    old_id: T24n1477
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0066_000-T.yaml, hash: 'sha256:3f34e0f35a19e71ccccc5394ae00e780342382fe602c205342c8aa88eb90bb9f'}
+  - {seq: 1, filename: KR6k0066_001-T.yaml, hash: 'sha256:e41bb8645e6bb50c303e09ece6e3111b7b12582c418e87de176f6bcc10cff44e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0066_000-T.markers.yaml, hash: 'sha256:0864de779e71bb9350aeb1b7371712317149356baa83182cde3105d02923c2d9'}
+  - {seq: 1, role: markers, filename: assets/KR6k0066_001-T.markers.yaml, hash: 'sha256:2d0a9c6545da52b28320c1abf33d5a1b04dbc1fa0ed9b25ea1356a09f98d0fbd'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0066_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1666
+  label: 佛說戒消災經一卷
+  type: juan
+  level: 1
+hash: sha256:add320ef8f7d30c5838537e41f489dd1dae0c1112e5ee845cd85ca940eb45fde
