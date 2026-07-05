@@ -37,9 +37,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0066_000.yaml, hash: 'sha256:3f34e0f35a19e71ccccc5394ae00e780342382fe602c205342c8aa88eb90bb9f'}
-  - {seq: 1, filename: KR6k0066_001.yaml, hash: 'sha256:87f47dbc99f224280032626865891e77a9dbd11ae003f6e73d2b0f580533609c'}
+  - {seq: 1, filename: KR6k0066_001.yaml, hash: 'sha256:e41bb8645e6bb50c303e09ece6e3111b7b12582c418e87de176f6bcc10cff44e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0066_001.markers.yaml, hash: 'sha256:13b1f231054cc9ab80e9e53091b18c9567310307c62587d6bca545d939e8d9bc'}
+  - {seq: 0, role: markers, filename: assets/KR6k0066_000.markers.yaml, hash: 'sha256:3d82ba3dbee0a195aef5e99f51c5d8189c44e7514a22273466a57c37d6f76608'}
+  - {seq: 1, role: markers, filename: assets/KR6k0066_001.markers.yaml, hash: 'sha256:72322e9c85de24a4fa6886834e5995fe06192264a4c826d10453de3fda387182'}
 table_of_contents:
 - ref:
     seq: 1
@@ -51,7 +52,4 @@ table_of_contents:
   label: 佛說戒消災經一卷
   type: juan
   level: 1
-hash: sha256:0b171d318bc60613f0220ce8341eed940c73ad94f396e3ce16eb724426164952
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:5ea86296480db875a8386b1952071e0c14a4df6eb34d4ce786dd4febed80abeb
