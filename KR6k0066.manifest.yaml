@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0066/v1
 canonical_location: https://kanripo.org/bkk/KR6k0066/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說戒消災經
   identifiers:
@@ -37,10 +37,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0066_000.yaml, hash: 'sha256:3f34e0f35a19e71ccccc5394ae00e780342382fe602c205342c8aa88eb90bb9f'}
-  - {seq: 1, filename: KR6k0066_001.yaml, hash: 'sha256:e41bb8645e6bb50c303e09ece6e3111b7b12582c418e87de176f6bcc10cff44e'}
+  - {seq: 1, filename: KR6k0066_001.yaml, hash: 'sha256:816f963a2136af4a703e8aeb8115532de44b43902178e1c8abfb00d11d1e399c'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0066_000.markers.yaml, hash: 'sha256:3d82ba3dbee0a195aef5e99f51c5d8189c44e7514a22273466a57c37d6f76608'}
-  - {seq: 1, role: markers, filename: assets/KR6k0066_001.markers.yaml, hash: 'sha256:72322e9c85de24a4fa6886834e5995fe06192264a4c826d10453de3fda387182'}
+  - {seq: 1, role: markers, filename: assets/KR6k0066_001.markers.yaml, hash: 'sha256:a8753608c4533f7a0ebc96514880c5649589a30629564c3c0233827962b78453'}
 table_of_contents:
 - ref:
     seq: 1
@@ -52,4 +52,7 @@ table_of_contents:
   label: 佛說戒消災經一卷
   type: juan
   level: 1
-hash: sha256:5ea86296480db875a8386b1952071e0c14a4df6eb34d4ce786dd4febed80abeb
+hash: sha256:767ed47e61dee44504df0d389e036d443af9b3f90086e30488663f6baa4ede11
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
